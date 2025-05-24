@@ -1,0 +1,11 @@
+1. Fairness: Ensure that AI treats all people equally, without discrimination or undue bias. AI should be designed to not reproduce or intensify social, economic, racial, gender, etc. inequalities. Example: Recruitment AI that avoids bias against women or minorities.
+
+2.Transparency: The decisions, processes and intentions of AI systems must be understandable to users and regulators. This includes providing access to the AI’s operating logic, goals and limitations. For example, clearly indicating when the user is interacting with an automated system (such as a chatbot).
+
+3. Privacy and Security: AI must protect sensitive data, ensure cybersecurity, and respect individual privacy. This involves encryption, anonymization, access control, and ethical use of data. For example, AI that uses medical data must ensure that no personal information is leaked.
+
+4. Sustainability: AI should be environmentally and socially sustainable, minimizing ecological impact and maximizing social benefits. This includes energy consumption, computing resource usage, and impact on jobs and society. Example: choose less energy-intensive AI architectures when possible.
+
+5. Accountability: There will always be a person, group or organization responsible for what AI does — and for its consequences. This means documentation, traceability and channels for complaints in case of damages. For example, a fintech that uses AI to approve credit needs to be held accountable for errors or discrimination in the system.
+
+6. Explainability: AI decisions must be explainable and justifiable in an understandable way, especially when they impact people. This is essential for trust, auditability, and error correction. For example, a patient needs to know why an algorithm denied them access to a treatment.
